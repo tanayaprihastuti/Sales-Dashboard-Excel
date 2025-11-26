@@ -24,7 +24,7 @@ The primary metrics monitored for the 2023 period are:
 
 ---
 ## 📊 Visualization
-
+![Preview Dashboard Excel](https://raw.githubusercontent.com/tanayaprihastuti/Sales-Dashboard-Excel/main/Sales-Dashboard-2023.png)
 
 ## 🔍 Dashboard Insights & Visualizations
 * **Monthly Performance Trend:** Visualizes the month-over-month movement of Total Sales and Total Profit (Jan-Dec 2023), including a year-over-year comparison with 2022.
@@ -42,5 +42,5 @@ The primary metrics monitored for the 2023 period are:
 - **Excel Slicers & Timeline** (for dynamic date and category filtering)
 - **Custom Chart Design** (including effective axis scaling for negative profit values)
 - **Conditional Formatting**
-- Dashboard Layout Design
-- Excel Formulas
+- **Dashboard Layout Design**
+- **Excel Formulas**
